@@ -1,2 +1,5 @@
 # hello-world
-first repository of mine
+
+Hi Humans!
+
+Im an alien that will defeat you in the mean of time gwahahahaha!
